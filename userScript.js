@@ -6,7 +6,7 @@
 // @author       You
 // @match        https://runrun.it/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=runrun.it
-// @require      https://raw.githubusercontent.com/luan-grabher/luan-grabher.github.io/master/RunrunItPlus/App.js
+// @require      https://raw.githubusercontent.com/luan-grabher/RunrunItPlus/main/App.js
 // @grant        none
 // ==/UserScript==
 
