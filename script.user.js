@@ -2,7 +2,7 @@
 // @name         Runrun It ++
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Melhorias para o site runrunit!
 // @author       You
 // @match        https://runrun.it/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=runrun.it
@@ -12,5 +12,5 @@
 
 (function() {
     'use strict';
-    App();
+    //App();
 })();

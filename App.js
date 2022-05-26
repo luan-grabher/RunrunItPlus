@@ -11,3 +11,5 @@ const App = () =>{
     alert("hello i'm working");
     
 };
+
+App();

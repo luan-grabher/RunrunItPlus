@@ -9,13 +9,13 @@ function importScriptInHead(url, type = 'module') {
 const source = 'https://raw.githubusercontent.com/luan-grabher/RunrunItPlus/main/';
 
 //modules to import
-urls = [
+urls = [    
+    {
+        url: source + 'Helpers/Elements.js'
+    },
     {
         url: source + 'App.js',
         type: 'text/javascript'
-    },
-    {
-        url: source + 'Helpers/Elements.js'
     }
 ];
 
