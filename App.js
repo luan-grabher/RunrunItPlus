@@ -1,4 +1,4 @@
-import Elements from './modules/Elements';
+import Elements from "./modules/Elements.mjs";
 
 //GETs in URL
 var $_GET=[];
@@ -11,6 +11,3 @@ const App = () =>{
     alert("hello i'm app");
     alert(Elements());
 };
-
-//start app
-App();
