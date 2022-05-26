@@ -11,7 +11,7 @@ const source = 'https://raw.githubusercontent.com/luan-grabher/RunrunItPlus/main
 //modules to import
 urls = [    
     {
-        url: source + 'Helpers/Elements.mjs'
+        url: source + 'Helpers/Elements.js'
     },
     {
         url: source + 'App.js',
