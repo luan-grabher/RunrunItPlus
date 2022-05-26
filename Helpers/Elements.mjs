@@ -1,7 +1,7 @@
 
 
 const Elements = () => {
-    return ('hello i\'m working');
+    return ("hello i'm Elements");
 }
 
 export default Elements;

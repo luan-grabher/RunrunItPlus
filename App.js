@@ -1,4 +1,4 @@
-import Elements from './Helpers/Elements';
+import Elements from './modules/Elements';
 
 //GETs in URL
 var $_GET=[];
@@ -8,8 +8,9 @@ window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(a,name,value){$_
 
 //App class
 const App = () =>{    
-    alert("hello i'm working");
-    
+    alert("hello i'm app");
+    alert(Elements());
 };
 
+//start app
 App();
