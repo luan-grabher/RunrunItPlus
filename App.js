@@ -1,4 +1,4 @@
-import Elements from "./modules/Elements.mjs";
+const Elements = require("./modules/Elements.mjs");
 
 //GETs in URL
 var $_GET=[];
